@@ -1,0 +1,133 @@
+# Chapitre 1 : Graphes orientés et non orientés
+
+## 1. Définition d'un graphe
+
+Un graphe est une structure mathématique composée de deux éléments :
+
+- V : ensemble des sommets.
+- E : ensemble des arêtes ou des arcs.
+
+On note un graphe : G = (V, E).
+
+Les graphes permettent de représenter les relations entre plusieurs éléments.
+
+**Exemple :** Un réseau informatique peut être représenté par un graphe où les ordinateurs sont les sommets et les connexions sont les arêtes.
+
+## 2. Graphe non orienté
+
+Un graphe non orienté est un graphe dont les arêtes ne possèdent pas de direction.
+
+Une arête relie deux sommets sans préciser le sens de la relation.
+
+**Exemple :**
+
+Si A et B sont reliés, alors :
+- A est lié à B.
+- B est lié à A.
+
+On note cette relation : {A, B}.
+
+## 3. Degré d'un sommet
+
+Le degré d'un sommet est le nombre d'arêtes qui sont reliées à ce sommet.
+
+On note le degré du sommet A : d(A).
+
+**Exemple :**
+
+Si le sommet A est relié à trois sommets, alors :
+
+d(A) = 3.
+
+**Propriété importante :**
+
+La somme des degrés de tous les sommets est égale au double du nombre d'arêtes.
+
+Σ d(v) = 2 × |E|
+
+## 4. Graphe orienté
+
+Un graphe orienté est un graphe dont les arcs possèdent une direction.
+
+Un arc va d'un sommet de départ vers un sommet d'arrivée.
+
+**Exemple :**
+
+A → B
+
+Cela signifie que l'arc part de A et arrive à B. Cela ne signifie pas nécessairement que B peut aller vers A.
+
+## 5. Degré entrant et degré sortant
+
+Dans un graphe orienté, on distingue deux types de degrés :
+
+- Degré entrant : nombre d'arcs qui arrivent à un sommet.
+- Degré sortant : nombre d'arcs qui partent d'un sommet.
+
+**Exemple :**
+
+Si deux arcs arrivent au sommet A et trois arcs partent de A :
+
+- Degré entrant = 2.
+- Degré sortant = 3.
+
+**Propriété importante :**
+
+La somme des degrés entrants est égale à la somme des degrés sortants.
+
+Σ d⁻(v) = Σ d⁺(v) = nombre total d'arcs.
+
+## 6. Chaîne et chemin
+
+- Chaîne : succession de sommets reliés par des arêtes dans un graphe non orienté.
+- Chemin : succession de sommets reliés en respectant le sens des arcs dans un graphe orienté.
+
+## 7. Cycle
+
+Un cycle est un chemin qui commence et se termine au même sommet.
+
+**Exemple :**
+
+A → B → C → A
+
+Ce chemin forme un cycle.
+
+## 8. Matrice d'adjacence
+
+La matrice d'adjacence permet de représenter un graphe sous forme de tableau.
+
+Pour un graphe simple :
+- 1 signifie qu'il existe une liaison entre deux sommets.
+- 0 signifie qu'il n'existe pas de liaison.
+
+**Exemple :**
+
+Pour un graphe non orienté avec les arêtes {A,B} et {B,C} :
+
+|   | A | B | C |
+|---|---|---|---|
+| A | 0 | 1 | 0 |
+| B | 1 | 0 | 1 |
+| C | 0 | 1 | 0 |
+
+Dans un graphe non orienté, la matrice d'adjacence est symétrique.
+
+## 9. Applications des graphes
+
+Les graphes sont utilisés dans plusieurs domaines :
+
+- Réseaux informatiques.
+- Réseaux sociaux.
+- Systèmes de transport.
+- Recherche du plus court chemin.
+- Organisation des tâches.
+
+## 10. Résumé
+
+- Un graphe est composé de sommets et de relations.
+- Un graphe non orienté possède des arêtes sans direction.
+- Un graphe orienté possède des arcs avec une direction.
+- Le degré indique le nombre de connexions d'un sommet.
+- Le degré entrant compte les arcs qui arrivent.
+- Le degré sortant compte les arcs qui partent.
+- La matrice d'adjacence représente les relations entre les sommets.

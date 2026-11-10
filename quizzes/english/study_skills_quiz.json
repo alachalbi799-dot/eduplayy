@@ -1,0 +1,106 @@
+
+{
+  "title": "Study Skills - Quiz",
+  "questions": [
+    {
+      "question": "What are study skills?",
+      "options": [
+        "Techniques that help students learn better",
+        "Sports activities",
+        "Computer games",
+        "Entertainment activities"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does SMART mean?",
+      "options": [
+        "Simple, Modern, Active, Real, Time",
+        "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "Study, Memory, Action, Reading, Test",
+        "Strong, Meaningful, Active, Regular, True"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is time management?",
+      "options": [
+        "Sleeping all day",
+        "Playing games",
+        "Organizing time and activities",
+        "Avoiding homework"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "How long is a Pomodoro study session?",
+      "options": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "25 minutes"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is note-taking?",
+      "options": [
+        "Writing important information",
+        "Watching videos",
+        "Playing music",
+        "Reading without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is skimming?",
+      "options": [
+        "Reading every word slowly",
+        "Reading quickly to understand the general idea",
+        "Writing a summary",
+        "Memorizing a text"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is a mind map used for?",
+      "options": [
+        "Playing games",
+        "Measuring time",
+        "Organizing ideas visually",
+        "Writing computer programs"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What helps improve concentration?",
+      "options": [
+        "Using the phone constantly",
+        "Studying with loud distractions",
+        "Doing many tasks at once",
+        "Studying in a quiet place"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What should students do before an exam?",
+      "options": [
+        "Review lessons and practice exercises",
+        "Ignore their lessons",
+        "Avoid revision",
+        "Forget their schedule"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is active learning?",
+      "options": [
+        "Only listening",
+        "Participating and practicing",
+        "Sleeping during lessons",
+        "Avoiding questions"
+      ],
+      "answer": 1
+    }
+  ]
+}

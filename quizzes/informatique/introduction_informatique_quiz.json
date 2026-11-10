@@ -1,0 +1,95 @@
+{
+  "title": "Introduction à l'informatique - Quiz",
+  "questions": [
+    {
+      "question": "Qu'est-ce que l'informatique ?",
+      "options": [
+        "Le traitement automatique de l'information",
+        "La réparation des voitures",
+        "La construction des maisons"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel élément est un périphérique d'entrée ?",
+      "options": [
+        "L'écran",
+        "Le clavier",
+        "L'imprimante"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel élément est un périphérique de sortie ?",
+      "options": [
+        "La souris",
+        "Le clavier",
+        "L'écran"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Que signifie CPU ?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Control Program User"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quel logiciel gère les ressources de l'ordinateur ?",
+      "options": [
+        "Un jeu",
+        "Le système d'exploitation",
+        "Une image"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quelle est l'unité de base de l'information ?",
+      "options": [
+        "Le bit",
+        "Le mètre",
+        "Le litre"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Que signifie RAM ?",
+      "options": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Run All Memory"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel réseau couvre une petite zone comme une maison ?",
+      "options": [
+        "WAN",
+        "MAN",
+        "LAN"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le rôle d'un antivirus ?",
+      "options": [
+        "Protéger l'ordinateur contre les logiciels malveillants",
+        "Augmenter la taille de l'écran",
+        "Créer des dossiers"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Internet permet principalement de :",
+      "options": [
+        "Éteindre l'ordinateur",
+        "Échanger des informations et communiquer",
+        "Remplacer le clavier"
+      ],
+      "answer": 1
+    }
+  ]
+}

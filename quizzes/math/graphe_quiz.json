@@ -1,0 +1,56 @@
+{
+  "subject": "Math",
+  "topic": "Graphes orientés et non orientés",
+  "questions": [
+    {
+      "question": "Un graphe est composé de quels éléments ?",
+      "options": [
+        "Des sommets et des arêtes",
+        "Des nombres et des lettres",
+        "Des lignes et des couleurs",
+        "Des matrices uniquement"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Quelle est la caractéristique d'un graphe non orienté ?",
+      "options": [
+        "Les arcs ont une direction",
+        "Les arêtes n'ont pas de direction",
+        "Il ne contient aucun sommet",
+        "Il contient uniquement des cycles"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Dans un graphe orienté, le degré entrant représente :",
+      "options": [
+        "Le nombre d'arcs qui partent du sommet",
+        "Le nombre de sommets",
+        "Le nombre d'arcs qui arrivent au sommet",
+        "Le nombre total d'arêtes"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Si un sommet est relié à 3 arêtes dans un graphe non orienté, son degré est :",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Dans un graphe non orienté, la matrice d'adjacence est généralement :",
+      "options": [
+        "Symétrique",
+        "Toujours nulle",
+        "Triangulaire",
+        "Sans lignes"
+      ],
+      "answer": 0
+    }
+  ]
+}

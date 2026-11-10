@@ -1,0 +1,198 @@
+# Chapitre 1 : Introduction aux systèmes multimédias
+
+## 1. Définitions et notions de base
+
+### 1.1. Qu'est-ce que le multimédia ?
+
+Le mot multimédia est composé de deux mots :
+- Multi : plusieurs.
+- Média : moyens de communication.
+
+Le multimédia est la combinaison de plusieurs types de médias dans un même système pour transmettre une information.
+
+Les cinq types de médias élémentaires sont :
+- **Texte :** informations écrites.
+- **Image :** représentation visuelle.
+- **Son :** informations audio.
+- **Vidéo :** succession d'images avec du son.
+- **Animation :** images qui créent une impression de mouvement.
+
+### 1.2. Caractéristiques du multimédia
+
+Le multimédia possède trois caractéristiques principales :
+
+- **Intégration :** plusieurs médias sont réunis dans un seul environnement.
+- **Interactivité :** l'utilisateur peut interagir avec le contenu.
+- **Numérisation :** les médias sont traités sous forme numérique par l'ordinateur.
+
+### 1.3. Les deux points de vue du multimédia
+
+**Point de vue information :**
+Le multimédia permet de transmettre un message en utilisant plusieurs canaux perceptifs, comme la vue et l'ouïe.
+
+**Point de vue informatique :**
+Le multimédia est une technologie qui permet de manipuler simultanément des textes, des images et des sons à l'aide d'un système informatique.
+
+### 1.4. Hypertexte et hypermédia
+
+**Hypertexte :**
+C'est un texte organisé avec des liens qui permettent de naviguer entre plusieurs documents ou parties.
+
+Exemple : les pages Web reliées par des liens.
+
+**Hypermédia :**
+C'est une extension de l'hypertexte. Les liens permettent de naviguer entre différents médias : texte, image, son, vidéo et animation.
+
+Exemple : une encyclopédie multimédia interactive.
+
+À retenir :
+- Hypertexte = navigation dans le texte.
+- Hypermédia = navigation dans plusieurs médias.
+- Multimédia = combinaison de plusieurs médias.
+
+---
+
+## 2. Historique et évolution des technologies multimédias
+
+Les technologies multimédias ont évolué progressivement.
+
+Quelques dates importantes :
+
+- **1945 :** concept du Memex proposé par Vannevar Bush.
+- **1965 :** apparition du terme « Hypertexte » par Ted Nelson.
+- **1990 :** développement du Web par Tim Berners-Lee avec HTML et HTTP.
+- **1995 :** développement du CD-ROM et démocratisation du multimédia.
+- **2005 :** développement du streaming audio et vidéo.
+- **2015 :** développement du multimédia mobile et des réseaux sociaux.
+- **2023 et plus :** développement de l'intelligence artificielle générative et de la réalité virtuelle et augmentée.
+
+Cette évolution a facilité la création, le stockage et la diffusion des contenus multimédias.
+
+---
+
+## 3. Domaines d'application du multimédia
+
+Le multimédia est utilisé dans plusieurs domaines :
+
+**1. E-learning (Éducation) :**
+Cours en ligne, plateformes éducatives et simulations interactives.
+
+**2. Jeux vidéo :**
+Combinaison de graphismes, de sons et d'interactions pour le divertissement.
+
+**3. Réalité virtuelle et augmentée :**
+Création d'environnements immersifs utilisés dans la formation, la santé et l'industrie.
+
+**4. Web et réseaux sociaux :**
+Partage de vidéos, images, streaming et contenus interactifs.
+
+**5. Culture et communication :**
+Musées virtuels, œuvres numériques et expositions interactives.
+
+**6. Santé et industrie :**
+Simulations médicales, formation professionnelle et applications techniques.
+
+---
+
+## 4. Le système multimédia
+
+Un système multimédia permet de transmettre une information depuis une source jusqu'à un utilisateur.
+
+### 4.1. La chaîne de transmission
+
+La transmission multimédia comporte plusieurs éléments :
+
+- **Source :** produit l'information.
+- **Codeur :** prépare et encode les données.
+- **Canal :** transporte les données.
+- **Décodeur :** récupère et décode les données.
+- **Utilisateur :** reçoit et consulte l'information.
+
+Le bruit peut perturber la transmission.
+
+### 4.2. Le codec
+
+Un codec est un outil qui permet d'encoder et/ou de décoder un contenu multimédia.
+
+Exemples :
+- JPEG : format d'image.
+- MP3 : format audio.
+- MP4 : format vidéo.
+
+Le choix du codec influence la qualité, la taille du fichier, le stockage et la diffusion.
+
+### 4.3. Numérisation
+
+La numérisation est la conversion d'un signal analogique (son, image ou vidéo) en une suite de valeurs numériques que l'ordinateur peut traiter.
+
+Elle permet de représenter les médias sous forme numérique.
+
+### 4.4. Compression
+
+La compression consiste à réduire la taille des données numériques.
+
+Elle permet de :
+- Faciliter le stockage.
+- Réduire le temps de transmission.
+- Économiser l'espace de stockage.
+- Faciliter la diffusion des vidéos et des sons.
+
+Exemple du cours : une vidéo non compressée peut occuper une très grande quantité d'espace.
+
+### 4.5. Les trois piliers d'un système multimédia
+
+**A. Matériel (Hardware)**
+
+Il comprend :
+- Processeur et carte graphique.
+- Carte son.
+- Microphone et webcam.
+- Écran et haut-parleurs.
+- Disque SSD et espace de stockage.
+
+**B. Logiciel (Software)**
+
+Il comprend :
+- Système d'exploitation.
+- Logiciels de création et de montage.
+- Lecteurs multimédias.
+- Formats et codecs.
+
+**C. Réseau (Network)**
+
+Il comprend :
+- Connexion Internet.
+- Protocoles de transfert et de streaming.
+- Serveurs de stockage et de diffusion.
+- Bande passante.
+
+---
+
+## 5. La chaîne de traitement multimédia
+
+Un contenu multimédia passe par quatre étapes principales :
+
+**1. Acquisition :**
+Capture du son, de l'image ou de la vidéo.
+
+**2. Traitement et codage :**
+Numérisation, compression et encodage.
+
+**3. Stockage et transmission :**
+Enregistrement dans des fichiers ou des bases de données, puis transfert par le réseau.
+
+**4. Restitution et diffusion :**
+Lecture, affichage ou streaming du contenu pour l'utilisateur.
+
+---
+
+## 6. Synthèse du chapitre
+
+- Le multimédia combine cinq types de médias : texte, image, son, vidéo et animation.
+- L'hypertexte permet la navigation entre les textes.
+- L'hypermédia permet la navigation entre plusieurs types de médias.
+- Le multimédia est utilisé dans l'éducation, les jeux vidéo, le Web, la santé et la culture.
+- Un système multimédia repose sur trois piliers : matériel, logiciel et réseau.
+- La numérisation transforme les signaux analogiques en données numériques.
+- La compression réduit la taille des données.
+- Le traitement multimédia passe par quatre étapes : acquisition, traitement, stockage/transmission et restitution.

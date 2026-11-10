@@ -1,0 +1,177 @@
+# Introduction à l'informatique – Cours complet
+
+## 1. Définition de l'informatique
+
+L'informatique est la science du traitement automatique de l'information à l'aide d'un ordinateur.
+
+Elle permet de :
+- Traiter des informations.
+- Stocker des données.
+- Communiquer.
+- Résoudre des problèmes.
+- Automatiser certaines tâches.
+
+**Exemple :** Utiliser un ordinateur pour écrire un document, faire des calculs ou naviguer sur Internet.
+
+## 2. L'ordinateur
+
+Un ordinateur est une machine électronique capable de recevoir, traiter, stocker et afficher des informations.
+
+Il fonctionne selon quatre opérations principales :
+
+1. Entrée (Input) : recevoir les données.
+2. Traitement (Processing) : traiter les données.
+3. Stockage (Storage) : conserver les informations.
+4. Sortie (Output) : afficher les résultats.
+
+**Exemple :** On saisit deux nombres, l'ordinateur calcule leur somme et affiche le résultat.
+
+## 3. Les composants matériels (Hardware)
+
+Le Hardware désigne les composants physiques d'un ordinateur.
+
+### A. Les périphériques d'entrée
+
+Ils permettent d'envoyer des informations à l'ordinateur.
+
+Exemples :
+- Clavier : saisir du texte.
+- Souris : déplacer le curseur et sélectionner.
+- Microphone : enregistrer la voix.
+- Scanner : numériser des documents.
+- Webcam : capturer des images et vidéos.
+
+### B. Les périphériques de sortie
+
+Ils permettent de recevoir les résultats du traitement.
+
+Exemples :
+- Écran : afficher les informations.
+- Imprimante : imprimer des documents.
+- Haut-parleurs : produire du son.
+- Projecteur : afficher une image sur une grande surface.
+
+### C. Les composants internes
+
+- Processeur (CPU) : exécute les instructions.
+- Mémoire RAM : conserve temporairement les données utilisées.
+- Disque dur (HDD) ou SSD : stocke les données durablement.
+- Carte mère : relie les composants de l'ordinateur.
+- Carte graphique (GPU) : traite les informations graphiques.
+
+## 4. Les logiciels (Software)
+
+Le Software représente les programmes et les applications utilisés par un ordinateur.
+
+Il existe deux grandes catégories :
+
+### A. Les logiciels système
+
+Ils permettent de faire fonctionner l'ordinateur.
+
+Exemples :
+- Windows
+- Linux
+- macOS
+
+### B. Les logiciels d'application
+
+Ils permettent de réaliser des tâches spécifiques.
+
+Exemples :
+- Microsoft Word : traitement de texte.
+- Excel : calcul et tableaux.
+- Google Chrome : navigation sur Internet.
+- Visual Studio Code : programmation.
+
+## 5. Les systèmes d'exploitation
+
+Un système d'exploitation (Operating System) est un logiciel principal qui gère les ressources de l'ordinateur et permet à l'utilisateur de communiquer avec la machine.
+
+Ses principales fonctions :
+- Gérer les fichiers et les dossiers.
+- Gérer la mémoire.
+- Contrôler les périphériques.
+- Exécuter les applications.
+- Gérer les utilisateurs.
+
+**Exemples :** Windows, Linux, macOS et Android.
+
+## 6. Les données et les informations
+
+Une donnée est un élément brut qui n'a pas encore été interprété.
+
+Une information est une donnée traitée qui possède un sens.
+
+**Exemple :**
+- Donnée : 18.
+- Information : L'étudiant a obtenu 18/20 à l'examen.
+
+## 7. Les unités de mesure informatique
+
+Les données informatiques sont mesurées en octets.
+
+Les principales unités sont :
+
+- Bit (b) : unité élémentaire, 0 ou 1.
+- Octet (o) : 8 bits.
+- Kilooctet (Ko) : environ 1 000 octets.
+- Mégaoctet (Mo) : environ 1 000 Ko.
+- Gigaoctet (Go) : environ 1 000 Mo.
+- Téraoctet (To) : environ 1 000 Go.
+
+**Exemple :** Une photo peut avoir une taille de 3 Mo.
+
+## 8. Les fichiers et les dossiers
+
+Un fichier est un ensemble d'informations enregistré sous un nom.
+
+Un dossier permet d'organiser et de regrouper plusieurs fichiers et sous-dossiers.
+
+Exemples de fichiers :
+- document.pdf
+- image.png
+- programme.py
+- cours.txt
+
+Les extensions indiquent généralement le type de fichier.
+
+## 9. Les réseaux informatiques
+
+Un réseau informatique est un ensemble d'ordinateurs et d'appareils connectés pour échanger des données et partager des ressources.
+
+### Types de réseaux
+
+- LAN (Local Area Network) : réseau local, par exemple dans une maison ou une école.
+- MAN (Metropolitan Area Network) : réseau couvrant une ville.
+- WAN (Wide Area Network) : réseau couvrant une grande zone géographique.
+
+### Internet
+
+Internet est un réseau mondial qui permet de communiquer et d'échanger des informations.
+
+Quelques services :
+- Web : consulter des sites Internet.
+- E-mail : envoyer et recevoir des messages.
+- Transfert de fichiers.
+- Communication en ligne.
+
+## 10. La sécurité informatique
+
+La sécurité informatique consiste à protéger les ordinateurs, les réseaux et les données contre les risques.
+
+Quelques bonnes pratiques :
+- Utiliser des mots de passe solides.
+- Ne pas partager ses mots de passe.
+- Éviter les liens suspects.
+- Installer les mises à jour.
+- Utiliser un antivirus.
+- Sauvegarder régulièrement les fichiers.
+
+## 11. Conclusion
+
+L'informatique joue un rôle important dans la vie quotidienne, les études et le travail.
+
+Elle repose principalement sur le matériel, les logiciels, les données et les réseaux.
+
+Comprendre les bases de l'informatique permet d'utiliser les technologies de manière efficace et responsable.

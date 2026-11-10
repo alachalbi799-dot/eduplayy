@@ -1,0 +1,56 @@
+
+{
+  "title": "Quiz - Introduction aux systèmes multimédias",
+  "questions": [
+    {
+      "question": "Quels sont les cinq types de médias ?",
+      "options": [
+        "Texte, image, son, vidéo et animation",
+        "Texte, calcul, réseau, image et son",
+        "Image, clavier, souris, vidéo et texte",
+        "Son, réseau, logiciel, texte et image"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Qu'est-ce que l'hypertexte ?",
+      "options": [
+        "Un logiciel de montage",
+        "Un texte avec des liens permettant la navigation",
+        "Un format vidéo",
+        "Un type de réseau"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quels sont les trois piliers d'un système multimédia ?",
+      "options": [
+        "Texte, image et son",
+        "Internet, vidéo et animation",
+        "Matériel, logiciel et réseau",
+        "Clavier, souris et écran"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le rôle de la compression ?",
+      "options": [
+        "Augmenter la taille des fichiers",
+        "Supprimer les images",
+        "Créer un réseau",
+        "Réduire la taille des données"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Quelles sont les étapes du traitement multimédia ?",
+      "options": [
+        "Acquisition, traitement, stockage/transmission et restitution",
+        "Lecture, écriture, calcul et impression",
+        "Installation, suppression, copie et collage",
+        "Texte, image, son et animation"
+      ],
+      "answer": 0
+    }
+  ]
+}
